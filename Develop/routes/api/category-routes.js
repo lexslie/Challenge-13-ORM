@@ -22,7 +22,7 @@ router.get('/:id', (req, res) => {
   // find one category by its `id` value
   Category.findOne({
     where: {
-      id: req:params.id
+      id: req.params.id
     },
     include: {
       model: Product,
