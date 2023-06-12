@@ -222,6 +222,8 @@ This Challenge is graded based on the following criteria:
 
 * The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
 
+* [Click here to view demo video!](https://drive.google.com/file/d/1bKHZlIqCga4jZ8Z9r7L4fhd-7LQAgnsl/view)
+
 ### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following:
